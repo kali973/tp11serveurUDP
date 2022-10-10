@@ -1,0 +1,3 @@
+ToolSet: 1.0 (local)Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=/root/Bureau/Outils & Produits Jetbrains/clion-2022.1.2/bin/ninja/linux/ninja
